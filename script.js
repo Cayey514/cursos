@@ -9,46 +9,46 @@ function openModal(certId) {
     
     switch(certId) {
         case 'cert1':
-            imgSrc = '/img/Introduction to HTML.png';
+            imgSrc = 'Introduction to HTML.png';
             break;
         case 'cert2':
-            imgSrc = '/img/Introduction to CSS.png';
+            imgSrc = 'Introduction to CSS.png';
             break;
         case 'cert3':
-            imgSrc = '/img/Introduction to JavaScript.png';
+            imgSrc = 'Introduction to JavaScript.png';
             break;
         case 'cert4':
-            imgSrc = '/img/JavaScript Intermediate.png';
+            imgSrc = 'JavaScript Intermediate.png';
             break;
         case 'cert5':
-            imgSrc = '/img/Introduction to Java.png';
+            imgSrc = 'Introduction to Java.png';
              break;  
         case 'cert6':
-            imgSrc = '/img/Java Intermediate.png';
+            imgSrc = 'Java Intermediate.png';
              break;
         case 'cert7':
-            imgSrc = '/img/Introduction to Phyton.png';
+            imgSrc = 'Introduction to Phyton.png';
              break;
         case 'cert8':
-            imgSrc = '/img/Phyton Intermediate.png';
+            imgSrc = 'Phyton Intermediate.png';
              break;
         case 'cert9':
-            imgSrc = '/img/Phyton Developer.png';
+            imgSrc = 'Phyton Developer.png';
              break;
         case 'cert10':
-            imgSrc = '/img/Intoduction to SQL.png';
+            imgSrc = 'Intoduction to SQL.png';
             break;
         case 'cert11':
-            imgSrc = '/img/SQL Intermediate.png';
+            imgSrc = 'SQL Intermediate.png';
             break;
         case 'cert12':
-            imgSrc = '/img/Coding Foundations.png';
+            imgSrc = 'Coding Foundations.png';
             break;     
         case 'cert13':
-            imgSrc = '/img/1.jpg';
+            imgSrc = '1.jpg';
             break; 
         case 'cert14':
-            imgSrc = '/img/2.jpg';
+            imgSrc = '2.jpg';
             break; 
         default:
             imgSrc = '';
